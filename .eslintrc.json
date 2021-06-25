@@ -13,6 +13,7 @@
         "no-console": "off",
         "no-underscore-dangle": "off",
         "no-unused-vars": "warn",
-        "no-trailing-spaces": "off"
+        "no-trailing-spaces": "off",
+        "camelcase": "off"
     }
 }
