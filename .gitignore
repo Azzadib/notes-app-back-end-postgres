@@ -1,0 +1,8 @@
+node_modules
+schema-reverse
+dist
+data
+npm debug.log
+notes-api-web-server.pem
+.env
+.prod.env
